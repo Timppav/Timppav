@@ -9,10 +9,10 @@ Some of the student group projects I have contributed to during my studies at Me
   * Fullstack web app that lets users draw on a whiteboard canvas and see each others' drawings in real time. Frontend React TypeScript, backend Java Springboot.
 
 * [Group Finder](https://github.com/ckapiainen/group-finder)
- * Fullstack web app for creating and joining study groups. Made with React JavaScript.
+  * Fullstack web app for creating and joining study groups. Made with React JavaScript.
 
 * [Shop Checkout Simulator](https://github.com/ckapiainen/group5_simulator)
- * Java program that simulates store checkout queues.
+  * Java program that simulates store checkout queues.
 
 * [Flight Game](https://github.com/WelehoBRUDER/AMK-flight-game)
   * Terminal game written in Python. First student project.
@@ -33,12 +33,11 @@ Some projects I made on my free time for practice.
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c#,js,ts,nodejs,react,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,react,mongodb,postgres,mysql,html,css,sass,tailwind,git,docker,postman,figma,c#" />
 </p>
 
 <div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Timppav's Most Used Languages" />
 </div>
 
 <hr>
