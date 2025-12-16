@@ -36,8 +36,4 @@ Some projects I made on my free time for practice.
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,react,mongodb,postgres,mysql,html,css,sass,tailwind,git,docker,postman,figma,c#" />
 </p>
 
-<div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Timppav's Most Used Languages" />
-</div>
-
 <hr>
