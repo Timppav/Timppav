@@ -1,4 +1,4 @@
-# Hello!
+# Hello, I'm Tino!
 I study Information and Communications Technology (ICT) at Metropolia University of Applied Sciences, majoring in Software Engineering.
 I am mostly interested in fullstack web development with technologies such as React JS, but I try to learn a little bit of everything.
 
