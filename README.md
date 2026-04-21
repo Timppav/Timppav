@@ -1,27 +1,22 @@
 # Hello, I'm Tino!
 I study Information and Communications Technology (ICT) at Metropolia University of Applied Sciences, majoring in Software Engineering.
-I am mostly interested in fullstack web development with technologies such as React JS, but I try to learn a little bit of everything.
+I am mostly interested in fullstack web and Android app development, but I try to learn a little bit of everything.
 
 ## School Projects
-Some of the student group projects I have contributed to during my studies at Metropolia:
 
-* [Whiteboard Realtime Drawing](https://github.com/PhongLe7de/Software_Engineering_Project_1_Group_4)
+* [PlantSnap](https://github.com/PhongLe7de/PlantSnap) (Group project)
+  * Android app that lets users photograph plants to identify and receive useful information about them. Built with Kotlin and Jetpack Compose, powered by PlantNet API and Gemini AI.
+
+* [GhastBlast](https://github.com/Timppav/GhastBlast)
+  * Isometric top-down survival horror game made in Unity.
+
+* [Whiteboard Realtime Drawing](https://github.com/PhongLe7de/Software_Engineering_Project_1_Group_4) (Group project)
   * Fullstack web app that lets users draw on a whiteboard canvas and see each others' drawings in real time. Frontend React TypeScript, backend Java Springboot.
 
-* [Group Finder](https://github.com/ckapiainen/group-finder)
+* [Group Finder](https://github.com/ckapiainen/group-finder) (Group project)
   * Fullstack web app for creating and joining study groups. Made with React JavaScript.
 
-* [Shop Checkout Simulator](https://github.com/ckapiainen/group5_simulator)
-  * Java program that simulates store checkout queues.
-
-* [Flight Game](https://github.com/WelehoBRUDER/AMK-flight-game)
-  * Terminal game written in Python. First student project.
-
-* [Flight Game 2](https://github.com/WelehoBRUDER/AMK-flight-game-2)
-  * Re-imagining of the first Flight Game written in JavaScript.
-
 ## Personal Projects
-Some projects I made on my free time for practice.
 
 * [Chat App](https://github.com/Timppav/chat-app)
   * Fullstack chat application with websockets for instant messaging. Made with React JavaScript, deployed with Render.
